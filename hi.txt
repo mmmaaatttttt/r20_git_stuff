@@ -1,4 +1,6 @@
 hello r20! good to see you.
 
 
-alwkejfawelk
+function foo() {
+  return 7;
+}
