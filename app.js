@@ -7,3 +7,7 @@ function add(x, y) {
 function shout(str) {
   return str.toUpperCase() + '!!!!';
 }
+
+function subtract(x, y) {
+  return x - y;
+}
