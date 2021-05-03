@@ -4,10 +4,14 @@ function add(x, y) {
   return x + y;
 }
 
+function subtract(x, y) {
+  return x - y;
+}
+
 function shout(str) {
   return str.toUpperCase() + '!!!!';
 }
 
-function subtract(x, y) {
-  return x - y;
+function whisper(str) {
+  return "i'm whispering this: " + str;
 }
