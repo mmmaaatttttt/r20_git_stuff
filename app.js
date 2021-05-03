@@ -7,3 +7,7 @@ function add(x, y) {
 function shout(str) {
   return str.toUpperCase() + '!!!!';
 }
+
+function whisper(str) {
+  return "i'm whispering this: " + str;
+}
