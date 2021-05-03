@@ -15,3 +15,7 @@ function shout(str) {
 function whisper(str) {
   return "i'm whispering this: " + str;
 }
+
+function hiGary() {
+  return "gary!";
+}
