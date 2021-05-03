@@ -1,11 +1,11 @@
 console.log('hi');
 
-function add(x, y) {
-  return x + y;
+function add(num1, num2) {
+  return num1 + num2;
 }
 
-function subtract(x, y) {
-  return x - y;
+function subtract(num1, num2) {
+  return num1 - num2;
 }
 
 function shout(str) {
